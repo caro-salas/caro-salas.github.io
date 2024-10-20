@@ -1,0 +1,22 @@
+---
+title: "Carola J. Salas"
+image:  caro-salas.jpg
+about:
+  template: jolla
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/CJSalasDr1
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/carola-j-salas-phd-02b56199/
+    - icon: github
+      text: Github
+      href: https://github.com/caro-salas
+    - icon: researchgate
+      text: Researchgate
+      href: https://www.researchgate.net/profile/Carola-Salas
+
+---
+
+Carola Janette Salas is a distinguished researcher specializing in evolutionary genetics and parasitology. She is affiliated with the Department of Parasitology at the U.S. Naval Medical Research Unit -SOUTH (NAMRU-S) in Lima, Peru1. Carola’s work focuses on understanding the genetic mechanisms underlying malaria, contributing significantly to the field of infectious diseases. 

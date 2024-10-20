@@ -1,0 +1,35 @@
+project:
+  type: website
+  output-dir: "docs"
+
+website:
+  title: "Carola J. Salas"
+  navbar:
+    left:
+      - text: "Home"
+        file: index.qmd
+      - text: "Portfolio"
+        file: portfolio.qmd
+      - text: "CV"
+        file: cv.qmd
+    right:
+      - icon: twitter
+        text: Twitter
+        href: https://twitter.com/CJSalasDr1
+      - icon: linkedin
+        text: LinkedIn
+        href: https://www.linkedin.com/in/carola-j-salas-phd-02b56199/
+      - icon: github
+        text: Github
+        href: https://github.com/caro-salas
+      - icon: researchgate
+        text: Researchgate
+        href: https://www.researchgate.net/profile/Carola-Salas
+      
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+
+
+

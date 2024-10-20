@@ -1,0 +1,11 @@
+---
+title: "Analysis of DHS Data"
+author: "Carola J. Salas"
+date: "2024-10-20"
+categories: [news, code, analysis, r]
+image: "image.jpg"
+---
+
+This is a project using DHA data. You can find the project [here](https://demolandscapes.info/){target="_blank}
+
+---
