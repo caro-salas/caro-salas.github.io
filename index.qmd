@@ -19,4 +19,4 @@ about:
 
 ---
 
-Carola Janette Salas is a distinguished researcher specializing in evolutionary genetics and parasitology. She is affiliated with the Department of Parasitology at the U.S. Naval Medical Research Unit -SOUTH (NAMRU-S) in Lima, Peru. Carola’s work focuses on understanding the genetic mechanisms underlying P. falciparum malaria drug resistance, contributing significantly to the field of infectious diseases. 
+Carola Janette Salas is a distinguished researcher specializing in evolutionary genetics and parasitology. She is affiliated with the Department of Parasitology at the U.S. Naval Medical Research Unit -SOUTH (NAMRU-S) in Lima, Peru1. Carola’s work focuses on understanding the genetic mechanisms underlying malaria, contributing significantly to the field of infectious diseases. 
